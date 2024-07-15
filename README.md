@@ -1,4 +1,4 @@
-# Getting Started
+# NoteSync
 
 ### Features: 
 
@@ -34,12 +34,6 @@
     - Drizzle ORM syntax, migration and types.
     - Supabase, postgres database, realtime database changes.
 
-  ### Deployment:
-  - Vercel (without realtime collab features) : 
-     [https://note-app-pi-nine.vercel.app/](https://note-app-pi-nine.vercel.app/)
-
-- Railway (fully functional app): 
-    [https://cypress-collaboration.up.railway.app/](https://cypress-collaboration.up.railway.app/)
 
 
 
